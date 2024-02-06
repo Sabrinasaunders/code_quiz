@@ -35,9 +35,9 @@ See below for a screenshot of the project.
 
 ## Deployment
 
-[Link to the GitHub repo for this project]
+[Link to the GitHub repo for this project] (https://github.com/Sabrinasaunders/code_quiz).
 
-[Link to the deployed project on GitPages]
+[Link to the deployed project on GitPages] (https://sabrinasaunders.github.io/code_quiz/).
 
 
 ## Resources
