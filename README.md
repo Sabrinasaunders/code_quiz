@@ -45,6 +45,7 @@ See below for a screenshot of the project.
 See the links below to see some of the resources I used for this project:
 
 [Webdesign](https://webdesign.tutsplus.com/multiple-choice-quiz-app-with-javascript--cms-107756t).
+
 [CodingNepalWeb](https://www.codingnepalweb.com/quiz-app-with-timer-javascript/).
 
 I also referenced ( in class activity 28 of module 4 ).
