@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./assets/css/style2.css">
+        <title>Multiple Choice Coding Quiz</title>
+    </head>
+
+    <body>
+        <header>
+            <section>
+                <a href="scoreboard.html"><button class="scores-header" id="view-high-scores">View Scoreboard</button></a>
+            </section>
+        
+            <section class="timer">
+                <p>Time: 
+                    <span id="timer">0</span>
+                </p>
+            </section>
+        </header>
+        
+        <main class="quiz">
+            <section id="quiz-start">
+                <section class="interface" id="start-screen">
+                    <h1>Multiple Choice Coding Quiz</h1>
+                    <p>This is a multiple choice quiz on coding topics. Try to finish before the timer runs out. Every wrong answer deducts your total time.</p>
+                    <button id="start-quiz-button">Start Quiz</button>
+                </section>
+            </section>
+
+            <section class="conceal" id="questions">
+                <h2 id="question-words"></h2>
+                <section class="choices" id="choices"></section>
+            </section>
+
+            <section class="conceal" id="quiz-finish">
+                <h2>Quiz Over!</h2>
+                <p>Your final score is: <span id="score-final"></span></p>
+                <p>Enter your name: <input type="text" id="name" max="4" />
+                    <button id="submit">Submit</button>
+                </p>
+            </section>
+
+            <section id="response" class="response hide"></section>
+        </main>
+        <script src="./assets/js/script2.js"></script>
+    </body>
+</html>
