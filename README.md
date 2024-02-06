@@ -31,7 +31,7 @@ I rectified the above problems in the following way:
 
 See below for a screenshot of the project.
 
-![Screenshot of deployed project](/assets/image/Screenshot%202024-02-05%20at%204.35.55 PM.png)
+![Screenshot of deployed project](/assets/images/Screenshot%202024-02-05%20at%204.35.55 PM.png)
 
 ## Deployment
 
