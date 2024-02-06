@@ -3,7 +3,7 @@
 
 ## Project Description
 
-A study in creating a timed multiple choice quiz on the subject of coding.
+This project includes work from HTML, CSS, and Javascript.
 
 ## Contents
 
@@ -16,7 +16,7 @@ A study in creating a timed multiple choice quiz on the subject of coding.
 
 ## Introduction
 
-( intro text )
+A study in creating a timed multiple choice quiz on the subject of coding.
 
 ## Problem
 
@@ -44,8 +44,8 @@ See below for a screenshot of the project.
 
 See the links below to see some of the resources I used for this project:
 
-[link title placeholder](https://webdesign.tutsplus.com/multiple-choice-quiz-app-with-javascript--cms-107756t)
-[link title placeholder](https://www.codingnepalweb.com/quiz-app-with-timer-javascript/)
+[Webdesign](https://webdesign.tutsplus.com/multiple-choice-quiz-app-with-javascript--cms-107756t).
+[CodingNepalWeb](https://www.codingnepalweb.com/quiz-app-with-timer-javascript/).
 
 I also referenced ( in class activity 28 of module 4 ).
 
